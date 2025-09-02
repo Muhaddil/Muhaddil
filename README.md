@@ -70,4 +70,8 @@
   <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhaddil&locale=es&theme=github_dark" />  
 </div>
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=Muhaddil)
+
 ---
