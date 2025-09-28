@@ -59,15 +59,15 @@
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhaddil&show_icons=true&locale=es&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhaddil&show_icons=true&locale=es&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
   
-  <img alt="Muhaddil's GitHub Stats" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhaddil&show_icons=true&hide_border=true&locale=es&theme=github_dark&include_all_commits=true&role=owner,collaborator&date_format=%5BY%20%5DM%20j" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=muhaddil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
-  <img alt="Muhaddil's GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhaddil&theme=github-dark-blue&locale=es&hide_border=true&date_format=%5BY%20%5DM%20j" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhaddil&theme=github-dark-blue&locale=es&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhaddil&locale=es&theme=github_dark" />  
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhaddil&locale=es&theme=github_dark" alt="More stats" />
 </div>
 
 <br />
